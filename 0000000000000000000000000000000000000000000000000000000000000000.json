@@ -3,9 +3,9 @@
     "name":"Edd.ia - 42 Malaga VET ",
     "description": "Este NFT se crea como parte del taller 'handsOn: Crea tu primer SmartContract NFT' que impartió Universelle en el evento de 42 Malaga VET que tuvo lugar los dias 1, 2 y 3 de Junio en las instalaciones de 42 Málaga. La Imagen elegida es el avatar de la Escuela, se llama Edd.ia y fue creada y elegida por los estudiantes de la escuela.",
     "amount": 42,
-    "image":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/edd.ia.png",
-    "image_url":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/edd.ia.png",
+    "image":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/Edd.ia.png",
+    "image_url":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/Edd.ia.png",
     "background_color":"fefefe",
-    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/edd.ia.png",
+    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/Edd.ia.png",
     "attributes":[]
 }
