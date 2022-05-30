@@ -52,18 +52,21 @@ contract FTMalagaVETNFT is ERC1155,  IERC2981 {
         _mint(msg.sender, eddIa, supply, "");
     }
 
+    function owner() public view returns (address) {
+        return admin;
+    }
+
     function setUri(string memory _newUri) public virtual onlyAdmin {
         //require(msg.sender == admin, "Revert: Not Admin");
         _setURI(_newUri);
     }
 
-    function owner() public view returns (address) {
-        return admin;
+    function setRoyaltyRecipient(address _royaltyRecipient) public virtual onlyAdmin {
+        royaltyRecipient = _royaltyRecipient;
     }
 
-    function setRoyaltyRecipient(address _royaltyRecipient) public virtual onlyAdmin {
-        //require(msg.sender == admin, "Revert: Not Admin");
-        royaltyRecipient = _royaltyRecipient;
+    function setRoyaltyFee(uint256 _royaltyFee) public virtual onlyAdmin {
+        fee = _royaltyFee;
     }
 
     function mint(uint256 _tokenId, uint256 _amount) public {
