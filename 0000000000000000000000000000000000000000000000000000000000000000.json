@@ -7,10 +7,5 @@
     "image_url":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/Edd.ia.png",
     "background_color":"fefefe",
     "animation_url":"https://raw.githubusercontent.com/ImagiNFT/42MalagaVET/main/Edd.ia.png",
-    "attributes":[
-        {
-            "trait_type": "rarity",
-            "value": "legendary"
-        }
-    ]
+    "attributes":[]
 }
