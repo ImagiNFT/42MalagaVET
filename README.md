@@ -12,8 +12,8 @@ que os hemos facilitado. Estas 12 palabras es muy importante que las guardeis bi
 que es vuestra forma de acceder alwallet y poder recuperarlo en otros dispositivos.
 # 2. Añadir la red de Polygon Mumbai a Metamask.
 Para ello, abrir la extensión y pulsar en el botón de "Add Network".
-![Añadir red](https://github.com/imaginft/42malagavet/blob/main/imgs/metamask-add-network.png)
 ![Formulario de polygon mumbai](https://github.com/imaginft/42malagavet/blob/main/imgs/metamask.png)
+![Añadir red](https://github.com/imaginft/42malagavet/blob/main/imgs/metamask-add-network.png)
 [RPC INFO](https://docs.polygon.technology/docs/develop/network-details/network/)
 ## POLYGON TESTNET
 - Name: Polygon Mumbai
