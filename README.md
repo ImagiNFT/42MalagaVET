@@ -26,6 +26,12 @@ Para ello, abrir la extensión y pulsar en el botón de "Add Network".
 - RPC URL: https://polygon-rpc.com/
 - Block explorer: https://polygonscan.com/
 
+# 3. Fondear La cuenta con FAKE MATIC
+Para ello las redes blockchain de pruebas cuentan con una plataforma llamada faucet donde puedes solicitar fondos.
+[Faucet](https://mumbaifaucet.com/)
+aqui tendras que copiar desde metamask la direccion publica que quieres usar para desarrollar el contrato.
+![Dirección publica en metamask](https://github.com/imaginft/42malagavet/blob/main/imgs/direccionPublica.png)
+
 # 3. Remix IDE.
 Remix IDE es una herramienta de desarrollo de contratos inteligentes que nos permite crear contratos y interactuar con
 la blockchain. lo podemos encontrar [aqui](https://remix.ethereum.org/).
@@ -33,3 +39,5 @@ la blockchain. lo podemos encontrar [aqui](https://remix.ethereum.org/).
 Para poder alojar la imagen del NFT necesitaremos una cuenta de Github. 
 [Crea tu cuenta de Github](https://github.com)
 Crear un nuevo repo publico y subir la imagen del NFT.
+
+
