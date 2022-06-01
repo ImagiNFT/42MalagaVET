@@ -30,6 +30,7 @@ Para ello, abrir la extensión y pulsar en el botón de "Add Network".
 Para ello las redes blockchain de pruebas cuentan con una plataforma llamada faucet donde puedes solicitar fondos.
 [Faucet](https://mumbaifaucet.com/)
 aqui tendras que copiar desde metamask la direccion publica que quieres usar para desarrollar el contrato.
+
 ![Dirección publica en metamask](https://github.com/imaginft/42malagavet/blob/main/imgs/direccionPublica.png)
 
 # 3. Remix IDE.
