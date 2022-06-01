@@ -1,3 +1,6 @@
+# NFTS ¿Boom or Bluff?
+[PRESENTACION](https://www.canva.com/design/DAFCKsU-ugg/3NvLu8T-kGvuiWEqmODQoA/view?utm_content=DAFCKsU-ugg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
 # HandsOn: Crea tu primer Smart Contract NFT
 
 Pasos previos para crear un Smart Contract NFT:
