@@ -30,7 +30,8 @@ Para ello, abrir la extensión y pulsar en el botón de "Add Network".
 Para ello las redes blockchain de pruebas cuentan con una plataforma llamada faucet donde puedes solicitar fondos.
 [Faucet](https://mumbaifaucet.com/)
 
-Aquí tendras que copiar desde metamask la direccion publica que quieres usar para desarrollar el contrato.
+Aquí tendras que copiar desde metamask la direccion publica que quieres usar para desarrollar el contrato y despues de unos
+segundos, en algunos casos incluso minutos aparecera en tu metamask que tienes 1 MATIC, más que suficiente para este taller.
 
 ![Dirección publica en metamask](https://github.com/imaginft/42malagavet/blob/main/imgs/direccionPublica.png)
 
