@@ -34,6 +34,7 @@ Para ello, abrir la extensión y pulsar en el botón de "Add Network".
 # 3. Fondear La cuenta con FAKE MATIC
 Para ello las redes blockchain de pruebas cuentan con una plataforma llamada faucet donde puedes solicitar fondos.
 [Faucet](https://mumbaifaucet.com/)
+[Faucet 2 ESTE SIIIIII]([https://mumbaifaucet.com/](https://faucet.polygon.technology/))
 
 Aquí tendras que copiar desde metamask la direccion publica que quieres usar para desarrollar el contrato y despues de unos
 segundos, en algunos casos incluso minutos aparecera en tu metamask que tienes 1 MATIC, más que suficiente para este taller.
